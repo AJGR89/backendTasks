@@ -1,0 +1,17 @@
+{
+  "name": "tarea01",
+  "version": "1.0.0",
+  "description": "tarea numero 1, rutas y params",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "ajgr89",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
